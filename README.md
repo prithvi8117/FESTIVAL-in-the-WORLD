@@ -5,6 +5,6 @@ christmas
 navratri
 Holi
 Bihu
-Vasant Panchmi
+Vashant Panchmi
 New Year
 Teachers Day
