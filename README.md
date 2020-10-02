@@ -1,6 +1,10 @@
 # FESTIVAL-in-the-WORLD
 diwali
-tomata festival
-chritmas
-navratra
-
+tomatino festival
+christmas
+navratri
+Holi
+Bihu
+Vasant Panchmi
+New Year
+Teachers Day
